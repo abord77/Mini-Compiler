@@ -1,0 +1,5 @@
+!(.)*
+wlp4compiler
+test.in
+*.o
+*.d
