@@ -1,1 +1,1 @@
-### Small C Compiler
+# Mini C Compiler
